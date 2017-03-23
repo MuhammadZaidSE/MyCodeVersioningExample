@@ -1,1 +1,3 @@
 I am feature A added in version 1.0
+
+I am feature B added in version 2.0
