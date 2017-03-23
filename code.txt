@@ -1,0 +1,1 @@
+I am feature A added in version 1.0
